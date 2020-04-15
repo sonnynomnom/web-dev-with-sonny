@@ -1,2 +1,3 @@
-# web-dev-with-sonny
-Web Dev with Sonny
+# Web Dev with Sonny
+
+Calendar coming soon!
