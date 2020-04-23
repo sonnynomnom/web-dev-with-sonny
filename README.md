@@ -10,7 +10,7 @@ https://www.twitch.tv/sonnynomnom
 
 https://www.codecademy.com/learn/paths/web-development
 
-## 1. Learn HTML
+## 1. Learn HTML 🦴
 
 | Date | Description | Twitch |
 | --- | --- |:---:|
@@ -21,7 +21,7 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 4/21/2020 | HTML Form Validation | asdf |
 | Thu 4/23/2020 | Semantic HTML & GitHub | Coming soon! |
 
-## 2. Learn CSS
+## 2. Learn CSS 💅
 
 | Date | Description | Twitch |
 | --- | --- | --- |
