@@ -38,3 +38,9 @@ Customer Support Survey:
 
 - Winner: Rosita 🇳🇱
 - RUnner Up: 
+
+Feedback from Rosita
+
+make a page on codecademy.com with all the cheatsheets so you find them quick.
+Add some toturials to the website.
+I like that it's short and easy to read.  
