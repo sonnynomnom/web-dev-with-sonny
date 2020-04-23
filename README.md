@@ -2,11 +2,11 @@
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
-### Twitch
+## Twitch
 
 https://www.twitch.tv/sonnynomnom
 
-### Web Development Path
+## Web Development Path
 
 https://www.codecademy.com/learn/paths/web-development
 
