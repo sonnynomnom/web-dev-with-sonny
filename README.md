@@ -2,7 +2,7 @@
 
 Twitch: www.twitch.tv/sonnynomnom
 
-
+![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
 | Date | Description | Link |
 | --- | --- | --- |
