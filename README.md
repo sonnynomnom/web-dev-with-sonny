@@ -1,7 +1,12 @@
 # Web Dev with Sonny
 
-Twitch: www.twitch.tv/sonnynomnom
-Web Development Path
+### Twitch
+
+https://www.twitch.tv/sonnynomnom
+
+### Web Development Path
+
+https://www.codecademy.com/learn/paths/web-development
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
