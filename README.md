@@ -6,4 +6,9 @@ Twitch: www.twitch.tv/sonnynomnom
 
 | Date | Description | Link |
 | --- | --- | --- |
-| 4/20/2020 | Introduction to HTML | asdf |
+| Tue 4/20/2020 | Introduction to HTML | asdf |
+| Thu 4/22/2020 | HTML Document Standards | asdf |
+| Tue 4/20/2020 | Introduction to HTML | asdf |
+| Thu 4/22/2020 | HTML Document Standards | asdf |
+| Tue 4/20/2020 | Introduction to HTML | asdf |
+| Thu 4/22/2020 | HTML Document Standards | asdf |
