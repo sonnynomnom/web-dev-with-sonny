@@ -1,6 +1,7 @@
 # Web Dev with Sonny
 
 Twitch: www.twitch.tv/sonnynomnom
+Web Development Path
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
