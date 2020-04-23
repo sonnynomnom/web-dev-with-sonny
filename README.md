@@ -1,5 +1,7 @@
 # Web Dev with Sonny
 
+![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
+
 ### Twitch
 
 https://www.twitch.tv/sonnynomnom
@@ -7,8 +9,6 @@ https://www.twitch.tv/sonnynomnom
 ### Web Development Path
 
 https://www.codecademy.com/learn/paths/web-development
-
-![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
 ## 1. Learn HTML
 
