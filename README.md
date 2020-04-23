@@ -30,10 +30,10 @@ https://www.codecademy.com/learn/paths/web-development
 # Code Challenge Winners
 
 Favorite Band:
-- Winner: asdf
-- Runner Up: asdf
+- Winner: Fede 🇺🇸
+- Runner Up: Koushik 🇮🇳
 
 Customer Support Survey:
 
-- Winner: aasdf
-- RUnner Up:aasdf
+- Winner: Rosita 🇳🇱
+- RUnner Up: 
