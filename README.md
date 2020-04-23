@@ -10,7 +10,7 @@ https://www.codecademy.com/learn/paths/web-development
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
-1. Learn HTML
+## 1. Learn HTML
 
 | Date | Description | Link |
 | --- | --- | --- |
