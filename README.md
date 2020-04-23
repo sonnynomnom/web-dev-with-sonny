@@ -17,7 +17,7 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 4/07/2020 | Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
 | Thu 4/09/2020 | HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
 | Tue 4/14/2020 | HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
-| Thu 4/26/2020 | HTML Forms | asdf |
+| Thu 4/26/2020 | HTML Forms | [Part 1](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) [Part 2](https://www.twitch.tv/videos/594157658?collection=8sq6CqKWAxaitw) |
 | Tue 4/21/2020 | HTML Form Validation | asdf |
 | Thu 4/23/2020 | Semantic HTML & GitHub | Coming soon! |
 
