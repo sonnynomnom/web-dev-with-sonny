@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid rgb(255, 145, 89);
+    background-color: rgba(236, 238, 150, 0.815)
+}
+
+h1 {
+  color: rgb(27, 87, 16);
+}
+
+td {
+  text-align: center;
+}

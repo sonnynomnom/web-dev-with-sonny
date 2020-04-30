@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <title>Form a Story</title>
+  </head>
+  <body>
+    <section id="top">
+      <img src="https://s3.amazonaws.com/codecademy-content/courses/learn-html-forms/formAStoryLogo.svg" alt="Form A Story Logo">
+    </section>
+
+    <section id="main">
+      <h1>Complete the Form -<br> Complete the Story!</h1>
+      <hr>
+      <!--Add your form below:-->
+
+      <form action="story.html" method="GET">
+
+        <!-- First question -->
+
+        <label for="animal-1">
+          Animal:
+        </label>
+
+        <input id="animal-1" type="text" name="animal-1" required>
+        <br>
+
+        <!-- Second question -->
+
+        <label for="animal-2">
+          Another Animal:
+        </label>
+
+        <input id="animal-2" type="text" name="animal-2" required>
+        <br>
+       
+        <!-- Third question -->
+
+        <label for="animal-2">
+          One More Animal:
+        </label>
+
+        <input id="animal-3" type="text" name="animal-3" required>
+        <br>
+       
+        <!-- Fourth question -->
+
+        <label for="adj-1">
+          Adjective (past tense):
+        </label>
+
+        <input id="adj-1" type="text" name="adj-1" required>
+        <br>
+
+        <!-- Fifth question -->
+
+        <label for="verb-1">
+          Verb (ends in -ing):
+        </label>
+
+        <input id="verb-1" type="text" name="verb-1" required>
+        <br>
+
+        <!-- Sixth question -->
+
+        <label for="num-1">
+          Number:
+        </label>
+
+        <input id="num-1" type="number" name="num-1" required>
+        <br>
+
+        For replays:
+
+        <span>
+          <input id="yes" type="radio" name="answer" value="yes" required>
+          <label for="yes" value="yes">
+            Twitch
+            </label>
+
+          <input id="no" type="radio" name="answer" value="no" required>
+          <label for="no" value="no">
+            YouTube
+          </label>
+        </span>
+        <br>
+
+        <label for="speed">
+          Relative speed (ends in -er):
+        </label>
+     
+        <select id="speed" name="speed" required>
+          <option value="faster">Faster</option>
+          <option value="medium">Mediumer</option>
+          <option value="slower">Slower</option>
+        </select>
+        <br>
+
+        <label for="quote">
+          Motivational Quote:
+        </label>
+
+        <input id="quote" name="quote" type="text" required list="quote-choices">
+<br>
+        <datalist id="quote-choices">
+          <option value="winner gets ice cream!"></option>
+          <option value="code for 20 min a day everyday!"></option>
+          <option value="you can do it!"></option>
+        </datalist>
+        <br>
+
+        <label for="message">
+          Meaningful Message:
+        </label>
+
+        <textarea id="message" name="message" rows="8" cols="40" required>
+         </textarea>
+         <br>
+
+
+        <input type="submit" value="Submit">
+
+      </form>
+    </section>
+  </body>
+</html>
