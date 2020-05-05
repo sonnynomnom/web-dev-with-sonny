@@ -26,18 +26,17 @@ https://www.codecademy.com/learn/paths/web-development
 | Date | Description | Twitch |
 | --- | --- | --- |
 | Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
-| Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
+| Thu 4/30/2020 | CSS Visual Rules | Coming soon! | 
 
 
-## 3. JavaScript 
+## 3. JavaScript 🏃‍♂️
 
 | Date | Description | Twitch |
 | --- | --- | --- |
-| Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
-| Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
+| Tue 5/5/2020 | Introduction to JavaScript | Coming soon! | 
+| Thu 5/7/2020 | TBA | TBA | 
 
 ## Weekly Code Challenges
-
 
 | Name | Description | Winner | Code |
 | --- | --- | --- | --- |
