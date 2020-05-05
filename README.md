@@ -43,14 +43,8 @@ https://www.codecademy.com/learn/paths/web-development
 | --- | --- | --- | --- |
 | 1. Favorite Band | Build a web page of your favoirte band using HTML | Fede 🇪🇸 | Coming soon! | 
 | 2. Daily Schedule | Build your daily quarantine schedule using HTML table | Koushik 🇮🇳 | Coming soon! |
-
-
-1. Favorite Band (Winner: Fede 🇪🇸)
-2. Daily Quarantine Schedule (Winner: Koushik 🇮🇳) 
-3. Customer Satisfaction Survey (Winner: Rosita 🇳🇱)
-4. Portfolio page HTML/CSS (Winners: Hillary 🇺🇸)
-
-
+| 3. Customer Satisfaction Survey | Build a custome satifaction survey using HTML Forms | Rosita 🇳🇱 | Coming soon! |
+| 4. Portfolio page | Build a porfolio page using HTML and CSS |  Hillary 🇺🇸 | Coming soon! |
 
 # Feedback from Twitch Users
 
