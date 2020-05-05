@@ -2,7 +2,7 @@
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
-## Twitch
+## Twitch 📺
 
 https://www.twitch.tv/sonnynomnom
 
@@ -28,18 +28,29 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
 | Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
 
+
+## 3. JavaScript 
+
+| Date | Description | Twitch |
+| --- | --- | --- |
+| Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
+| Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
+
 # Code Challenge Winners
 
-Favorite Band:
+Favorite Band HTML:
+
 - Winner: Fede 🇺🇸
 - Runner Up: Koushik 🇮🇳
 
-Customer Support Survey:
+Customer Support Survey HTML:
 
 - Winner: Rosita 🇳🇱
 - RUnner Up: 
 
-Portfolio page:
+Portfolio page HTML/CSS:
+
+
 
 # Feedback from Twitch Users
 
