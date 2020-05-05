@@ -38,6 +38,13 @@ https://www.codecademy.com/learn/paths/web-development
 
 ## Weekly Code Challenges
 
+
+| Date | Description | Winner | Code |
+| --- | --- | --- | --- |
+| 1. Favorite Band | Build a web page of your favoirte band using HTML | Fede 🇪🇸 | Coming soon! | 
+| 2. Daily Schedule | Build your daily quarantine schedule using HTML table | Koushik 🇮🇳 | Coming soon! |
+
+
 1. Favorite Band (Winner: Fede 🇪🇸)
 2. Daily Quarantine Schedule (Winner: Koushik 🇮🇳) 
 3. Customer Satisfaction Survey (Winner: Rosita 🇳🇱)
