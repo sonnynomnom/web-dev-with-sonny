@@ -43,7 +43,7 @@ https://www.codecademy.com/learn/paths/web-development
 | 1. Favorite Band | Build a webpage for your favoirte band using HTML | Fede 🇪🇸 | Coming soon! | 
 | 2. Daily Schedule | Build your daily quarantine schedule using an HTML table | Koushik 🇮🇳 | Coming soon! |
 | 3. Customer Survey | Build a custome satifaction survey using an HTML form | Rosita 🇳🇱 | Coming soon! |
-| 4. Portfolio Page | Build an About Me page using HTML/CSS |  Hillary 🇺🇸 | Coming soon! |
+| 4. Portfolio Page | Stylize an About Me page using CSS | Hillary 🇺🇸 | Coming soon! |
 | 5. TBD | TBD | TBA | TBA |
 
 # Feedback from Twitch Users
