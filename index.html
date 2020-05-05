@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    <title>Survey for Rules by Rosita</title>
+    <link rel="icon" href="./<favicon-name>.ico" type="image/x-icon">
+    <link href="./resources/style.css" type="text/css" rel="stylesheet">
+<body>
+    <header>
+       <img src="./resources/fakelogo.png" alt="customer survey logo"
+    </header>
+  
+      <section id="main">
+        <h1>Survey Rules by Rosita</h1>
+        <p>Please fill out this survey to help me improve Rules by Rosita.</p>
+        <h2>About Rules by Rosita</h2>
+        <p> My name is Rosita, I am 36 years old and living in the Netherlands. <a href="https://www.rulesbyrosita.nl/" target=_blank>Rules by Rosita</a> is my personal blog about living with cerebral palsy, motherhood, productivity and finding my way back to some purpose in life. You can read more about me on my <a href="https://www.rulesbyrosita.nl/rosita/" target=_blank>about page</a>. </p>
+        
+         <form action="survey.html" method="GET"> </form>
+         <label for="content">What do you like about the content on my blog?</label>
+         <br>
+         <input type="text" id="content" name="content" required>
+         <br>
+         <p>What content do you like best?(select multiple options?)</p>
+         <ul>
+            <li><input type="checkbox" id="cp" name="cp" value="cerebral palsy">
+                <label for="cp">blogs about <a href="https://www.rulesbyrosita.nl/cerebrale-parese/" target=_blank>cerebral palsy</a></label></li>
+            <li><input type="checkbox" id="personal" name="personal" value="personl life">
+                <label for="personal">blogs about personal life</label></li>
+            <li><input type="checkbox" id="motherhood" name="motherhood" value="motherhood">
+                <label for="motherhood"> blogs about motherhood</label></li>
+            <li><input type="checkbox" id="productivity" name="productivity" value="productivity">
+                <label for="productivity"> blogs about productivity</label></li>
+                <li><input type="checkbox" id="lifestyle" name="lifestyle" value="lifestyle">
+                    <label for="lifestyle"> blogs about lifestyle</label></li>
+         </ul>
+         <br>
+          <label for="improve">What could be improved on Rules by Rosita?</label>
+          <br>
+          <input id="improve" type="text" name="improve" required>
+         <br>
+         <br>
+         <span>I publish every monday and thursday a new blogpost. Is twice a week good enough?</span>
+         <br>
+         <input id="yes" type="radio" name="answer" value="yes" required>
+         <label for="yes">Yes</label>
+         <input id="no" type="radio" name="answer" value=
+        "no">
+        <label for="no">No</label>
+        <br>
+        <br>
+        <label for="times">How many times a week should I publish a blogpost?</label>
+        <select id="times" name="times" required>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option> 
+            <option value="7">7</option> 
+        </select>
+        <br>
+        <br>
+         <label for="read">What more would you like to read about on my blog?</label>
+         <br>
+        <input id="read" type="text" name="read" list="reading-topics" required>
+          <datalist id="reading-topics">
+            <option value="accessibility"></option>
+            <option value="getting a job"></option>
+            <option value="sponsord blogposts"></option>
+          </datalist>
+          <br>
+          <br>
+          <label= for"message">What else would you like to tell me?</label>
+          <br>
+          <textarea id="message" name="message" required rows="10" cols="100"></textarea>
+          <br>
+          <br>
+          <div class+"gdpr">
+            <input type="checkbox" id="gdpr" name="gdpr" value="gdpr">
+            <label id="gdpr"for="gdpr">I agree that my data is stored by Rules by Rosita. Read the <a href="https://www.rulesbyrosita.nl/privacyverklaring/" target=_blank>privacy statement</a> for more information. *</label>
+        </div>
+          <br>
+          <br>
+             <input type="submit" value="Send">
+      </section>
+      <footer>
+          <p>© 2020 Made by Rosita</p>
+      </footer>
+</body>
+</html>
