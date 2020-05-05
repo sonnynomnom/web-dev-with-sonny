@@ -38,9 +38,10 @@ https://www.codecademy.com/learn/paths/web-development
 
 # Weekly Code Challenges
 
-- Favorite Band HTML (Winner: Fede 🇪🇸)
-- Customer Support Survey HTML (Winner: Rosita 🇳🇱)
-- Portfolio page HTML/CSS (Winners: Koushik 🇮🇳)
+1. Favorite Band (Winner: Fede 🇪🇸)
+2. Daily Quarantine Schedule (Winner: Koushik 🇮🇳) 
+3. Customer Satisfaction Survey (Winner: Rosita 🇳🇱)
+4. Portfolio page HTML/CSS (Winners: Hillary 🇺🇸)
 
 
 
