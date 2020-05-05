@@ -1,0 +1,15 @@
+Must be about your favorite band
+Use the tags introduced in Lesson 1 intro to HTML
+
+Tags used:
+
+HEADERS     <h1> through <h6>
+PARAGRAPH   <p></p>
+SECTIONS    <div></div>
+LISTS       <ol><li></li></ol>
+            <ul><li></li></ul>
+IMAGE       <img src="image.png" alt="A field of yellow sunflowers" />
+BOLD        <strong></strong>
+ITALICS     <em></em>
+LINE BREAK  <br>
+VIDEO       <video src="myVideo.mp4" width="320" height="240" controls>Video not supported</video>
