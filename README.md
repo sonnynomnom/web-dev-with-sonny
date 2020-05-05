@@ -36,7 +36,7 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
 | Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
 
-# Weekly Code Challenges
+## Weekly Code Challenges
 
 1. Favorite Band (Winner: Fede 🇪🇸)
 2. Daily Quarantine Schedule (Winner: Koushik 🇮🇳) 
