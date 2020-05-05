@@ -36,19 +36,11 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 4/28/2020 | CSS Setup and Selectors | Coming soon! | 
 | Tue 4/30/2020 | CSS Visual Rules | Coming soon! | 
 
-# Code Challenge Winners
+# Weekly Code Challenges
 
-Favorite Band HTML:
-
-- Winner: Fede 🇺🇸
-- Runner Up: Koushik 🇮🇳
-
-Customer Support Survey HTML:
-
-- Winner: Rosita 🇳🇱
-- RUnner Up: 
-
-Portfolio page HTML/CSS:
+- Favorite Band HTML (Winner: Fede 🇪🇸)
+- Customer Support Survey HTML (Winner: Rosita 🇳🇱)
+- Portfolio page HTML/CSS (Winners: Koushik 🇮🇳)
 
 
 
