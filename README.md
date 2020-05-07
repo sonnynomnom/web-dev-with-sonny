@@ -10,7 +10,7 @@ https://www.twitch.tv/sonnynomnom
 
 https://www.codecademy.com/learn/paths/web-development
 
-## Learn HTML 🦴
+## Playlist
 
 | Date | Description | Twitch |
 | --- | --- |:---:|
@@ -27,8 +27,7 @@ https://www.codecademy.com/learn/paths/web-development
 | Tue 5/12/2020 | #11 TBA | TBA | 
 | Thu 5/14/2020 | #12 TBA | TBA | 
 
-
-## Weekly Code Challenges
+## Code Challenges 💪
 
 | Name | Description | Winner | Code |
 | --- | --- |:---:|:---:|
