@@ -2,13 +2,15 @@
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
-## Twitch 📺
+📺 https://www.twitch.tv/sonnynomnom
+📆 Every Tuesday & Thursday @ 3PM EST
 
-https://www.twitch.tv/sonnynomnom
+## Course Links
 
-## Web Development Path
-
-https://www.codecademy.com/learn/paths/web-development
+- https://www.codecademy.com/learn/paths/web-development
+- https://www.codecademy.com/learn/learn-html
+- https://www.codecademy.com/learn/learn-css
+- https://www.codecademy.com/learn/introduction-to-javascript
 
 ## Playlist
 
