@@ -20,23 +20,12 @@ https://www.codecademy.com/learn/paths/web-development
 | Thu 4/26/2020 | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
 | Tue 4/21/2020 | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
 | Thu 4/23/2020 | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-
-## Learn CSS 💅
-
-| Date | Description | Twitch |
-| --- | --- |:---:|
-| Tue 4/28/2020 | CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
-| Thu 4/30/2020 | CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
-
-
-## JavaScript 🏃‍♂️
-
-| Date | Description | Twitch |
-| --- | --- |:---:|
-| Tue 5/5/2020 | Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
-| Thu 5/7/2020 | JavaScript Variables | Coming soon! | 
-| Tue 5/12/2020 | TBA | TBA | 
-| Thu 5/14/2020 | TBA | TBA | 
+| Tue 4/28/2020 | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
+| Thu 4/30/2020 | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
+| Tue 5/5/2020 | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
+| Thu 5/7/2020 | #10 JavaScript Variables | Coming soon! | 
+| Tue 5/12/2020 | #11 TBA | TBA | 
+| Thu 5/14/2020 | #12 TBA | TBA | 
 
 
 ## Weekly Code Challenges
