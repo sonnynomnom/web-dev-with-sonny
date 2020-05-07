@@ -1,12 +1,12 @@
 body {
     background: #EEE;
     margin: 0;
-    padding: 0;
-  }
+     padding: 0;
+}
   
-    /* Table */
+/* Table */
   
-  table {
+table {
     height: 40%;
     left: 10%;
     margin: 20px auto;
@@ -38,12 +38,16 @@ body {
     text-align: left;
     width: 33.3333%;
     font-size:18px;
+    text-align: center;
   }
-  table,td {
+  table, td {
     border: 1px solid black;
   }
   td[colspan]:not([colspan="1"])
   {
     text-align:center;
   }
-  
+
+  h1, h3 {
+    text-align: center;
+  }
