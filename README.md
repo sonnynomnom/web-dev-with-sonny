@@ -38,8 +38,4 @@ https://www.codecademy.com/learn/paths/web-development
 | 4. Portfolio Page | Stylize an About Me page using CSS | Hillary 🇺🇸 | Coming soon! |
 | 5. TBD | TBD | TBA | TBA |
 
-Feedback from Rosita
-
-make a page on codecademy.com with all the cheatsheets so you find them quick.
-Add some toturials to the website.
-I like that it's short and easy to read.  
+Please leave feedback for the Web Development Path in the suggestion box on the Twitch channel.
