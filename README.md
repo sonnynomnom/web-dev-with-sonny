@@ -2,7 +2,7 @@
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
-📺 https://www.twitch.tv/sonnynomnom
+📺 https://www.twitch.tv/sonnynomnom <br>
 📆 Every Tuesday & Thursday @ 3PM EST
 
 ## Course Links
