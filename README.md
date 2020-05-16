@@ -18,16 +18,16 @@
 | --- | --- |:---:|
 | 4/07/2020 Tuesday | #1 Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
 | 4/09/2020 Thursday | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
-| Tue 4/14/2020 | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
-| Thu 4/26/2020 | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
-| Tue 4/21/2020 | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-| Thu 4/23/2020 | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-| Tue 4/28/2020 | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
-| Thu 4/30/2020 | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
-| Tue 5/5/2020 | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
-| Thu 5/7/2020 | #10 JavaScript Variables | Coming soon! | 
-| Tue 5/12/2020 | #11 JavaScript Conditionals | Coming soon! | 
-| Thu 5/14/2020 | #12 Repl.it Challenge | Coming soon! | 
+| 4/14/2020 Tuesday | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
+| 4/26/2020 Thursday | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
+| 4/21/2020 Tue | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
+| 4/23/2020 Thu | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
+| 4/28/2020 Tue | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
+| 4/30/2020 Thu | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
+| 5/05/2020 Tue | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
+| 5/07/2020 Thu | #10 JavaScript Variables | Coming soon! | 
+| 5/12/2020 Tue | #11 JavaScript Conditionals | Coming soon! | 
+| 5/14/2020 Thu | #12 Repl.it Challenge | Coming soon! | 
 
 ## Code Challenges 💪
 
