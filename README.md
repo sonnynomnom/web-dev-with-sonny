@@ -26,6 +26,8 @@
 | Thu 4/30/2020 | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
 | Tue 5/5/2020 | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
 | Thu 5/7/2020 | #10 JavaScript Variables | Coming soon! | 
+| Tue 5/12/2020 | #11 JavaScript Conditionals | Coming soon! | 
+| Thu 5/14/2020 | #12 Repl.it Challenge | Coming soon! | 
 
 ## Code Challenges 💪
 
