@@ -3,7 +3,7 @@
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
 
 📺 https://www.twitch.tv/sonnynomnom <br>
-📆 Tuesdays & Thursdays @ 3PM EST
+📆 Tuesdays & Thursdays @ 3:00 PM EST
 
 ## Course Links
 
