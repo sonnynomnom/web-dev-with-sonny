@@ -26,10 +26,10 @@
 | 5/12/2020 Tuesday | JavaScript | #11 JavaScript Conditionals | [Watch](https://www.twitch.tv/videos/622181992) | 
 | 5/14/2020 Thursday | JavaScript | #12 Repl.it Challenge | [Watch](https://www.twitch.tv/videos/622214602) | 
 
-## Code Challenges 💪
+## Code Challenges
 
 | Name | Description | Winner | Code |
-| --- | --- |:---:|:---:|
+| --- | --- | --- |:---:|
 | 1. Favorite Band | Build a webpage for your favoirte band using HTML | 🇪🇸 Fede | [Link](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/code-challenges/1-favorite-band/main.html) | 
 | 2. Daily Schedule | Build your daily quarantine schedule using an HTML table | 🇮🇳 Koushik | [Link](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/code-challenges/2-daily-schedule/koushik-schedule/daily_routine.html) |
 | 3. Customer Survey | Build a custome satifaction survey using an HTML form | 🇳🇱 Rosita | [Link](https://github.com/sonnynomnom/web-dev-with-sonny/tree/master/code-challenges/3-customer-survey) |
