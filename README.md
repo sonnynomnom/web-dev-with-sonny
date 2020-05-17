@@ -16,8 +16,8 @@
 
 | Date | Description | Twitch |
 | --- | --- |:---:|
-| 4/07/2020 Tue | #1 Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
-| 4/09/2020 Thu | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
+| 4/07/2020 Tuesday | #1 Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
+| 4/09/2020 Thursday | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
 | 4/14/2020 Tue | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
 | 4/26/2020 Thu | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
 | 4/21/2020 Tue | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
