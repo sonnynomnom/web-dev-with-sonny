@@ -22,9 +22,9 @@
 | 4/28/2020 Tuesday | ![CSS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/css.png) | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
 | 4/30/2020 Thursday | ![CSS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/css.png) | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
 | 5/05/2020 Tuesday | JavaScript | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
-| 5/07/2020 Thursday | JavaScript | #10 JavaScript Variables | Coming soon! | 
-| 5/12/2020 Tuesday | JavaScript | #11 JavaScript Conditionals | Coming soon! | 
-| 5/14/2020 Thursday | JavaScript | #12 Repl.it Challenge | Coming soon! | 
+| 5/07/2020 Thursday | JavaScript | #10 JavaScript Variables | [Watch](https://www.twitch.tv/videos/614204251) | 
+| 5/12/2020 Tuesday | JavaScript | #11 JavaScript Conditionals | [Watch](https://www.twitch.tv/videos/622181992) | 
+| 5/14/2020 Thursday | JavaScript | #12 Repl.it Challenge | [Watch](https://www.twitch.tv/videos/622214602) | 
 
 ## Code Challenges 💪
 
