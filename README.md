@@ -14,20 +14,20 @@
 
 ## Previously on Web Dev with Sonny ⏪
 
-| Date | Description | Twitch |
-| --- | --- |:---:|
-| 4/07/2020 Tuesday | #1 Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
-| 4/09/2020 Thursday | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
-| 4/14/2020 Tuesday | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
-| 4/26/2020 Thursday | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
-| 4/21/2020 Tuesday | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-| 4/23/2020 Thursday | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-| 4/28/2020 Tuesday | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
-| 4/30/2020 Thursday | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
-| 5/05/2020 Tuesday | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
-| 5/07/2020 Thursday | #10 JavaScript Variables | Coming soon! | 
-| 5/12/2020 Tuesday | #11 JavaScript Conditionals | Coming soon! | 
-| 5/14/2020 Thursday | #12 Repl.it Challenge | Coming soon! | 
+| Date | Domain | Description | Twitch |
+| --- | --- | --- |:---:|
+| 4/07/2020 Tuesday | HTML | #1 Introduction to HTML | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
+| 4/09/2020 Thursday | HTML | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
+| 4/14/2020 Tuesday | HTML | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
+| 4/26/2020 Thursday | HTML | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
+| 4/21/2020 Tuesday | HTML | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
+| 4/23/2020 Thursday | HTML | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
+| 4/28/2020 Tuesday | CSS | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
+| 4/30/2020 Thursday | CSS | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
+| 5/05/2020 Tuesday | JS | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
+| 5/07/2020 Thursday | JS | #10 JavaScript Variables | Coming soon! | 
+| 5/12/2020 Tuesday | JS | #11 JavaScript Conditionals | Coming soon! | 
+| 5/14/2020 Thursday | JS | #12 Repl.it Challenge | Coming soon! | 
 
 ## Code Challenges 💪
 
