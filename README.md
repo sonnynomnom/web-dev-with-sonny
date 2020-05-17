@@ -2,6 +2,8 @@
 
 <a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.png" align="right" width=400;></a>
 
+Web Dev with Sonny is a twice weekly discussion where we will learn to build web apps together and grow stronger as coders and as human beings. Beginners welcome!
+
 📺 https://www.twitch.tv/sonnynomnom <br>
 📆 Tuesdays & Thursdays @ 3:00 PM EST
 
