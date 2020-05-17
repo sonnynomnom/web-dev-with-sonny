@@ -19,8 +19,8 @@
 | 4/26/2020 Thursday | ![HTML](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/html.png) | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
 | 4/21/2020 Tuesday | ![HTML](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/html.png) | #5 HTML Form Validation | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
 | 4/23/2020 Thursday | ![HTML](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/html.png) | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
-| 4/28/2020 Tuesday | CSS | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
-| 4/30/2020 Thursday | CSS | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
+| 4/28/2020 Tuesday | ![CSS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/css.png) | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
+| 4/30/2020 Thursday | ![CSS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/css.png) | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
 | 5/05/2020 Tuesday | JavaScript | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
 | 5/07/2020 Thursday | JavaScript | #10 JavaScript Variables | Coming soon! | 
 | 5/12/2020 Tuesday | JavaScript | #11 JavaScript Conditionals | Coming soon! | 
