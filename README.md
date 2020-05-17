@@ -24,7 +24,7 @@
 | 4/23/2020 Thursday | HTML | #6 Semantic HTML & GitHub | [Watch](https://www.twitch.tv/videos/600059918?collection=8sq6CqKWAxaitw) |
 | 4/28/2020 Tuesday | CSS | #7 CSS Setup and Selectors | [Watch](https://www.twitch.tv/videos/613063611) | 
 | 4/30/2020 Thursday | CSS | #8 CSS Visual Rules | [Watch](https://www.twitch.tv/videos/613084168) | 
-| 5/05/2020 Tuesday | JS | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
+| 5/05/2020 Tuesday | JavaScript | #9 Introduction to JavaScript | [Watch](https://www.twitch.tv/videos/613142380) | 
 | 5/07/2020 Thursday | JS | #10 JavaScript Variables | Coming soon! | 
 | 5/12/2020 Tuesday | JS | #11 JavaScript Conditionals | Coming soon! | 
 | 5/14/2020 Thursday | JS | #12 Repl.it Challenge | Coming soon! | 
