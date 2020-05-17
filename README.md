@@ -2,6 +2,9 @@
 
 ![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.jpg)
 
+
+<a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.jpg" align="right" width=170;></a>
+
 📺 https://www.twitch.tv/sonnynomnom <br>
 📆 Tuesdays & Thursdays @ 3:00 PM EST
 
@@ -16,7 +19,7 @@
 
 | Date | Domain | Description | Twitch |
 | --- | :---: | --- |:---:|
-| 4/07/2020 Tuesday | HTML | #1 <a href="https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw" target="_blank">Introduction to HTML</a> | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
+| 4/07/2020 Tuesday | ![HTML](https://www.github.com/sonnynomnom/web-dev-with-sonny/html.png) | #1 <a href="https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw" target="_blank">Introduction to HTML</a> | [Watch](https://www.twitch.tv/videos/586254495?collection=8sq6CqKWAxaitw) |
 | 4/09/2020 Thursday | HTML | #2 HTML Document Standards & VS Code| [Watch](https://www.twitch.tv/videos/591215784?collection=8sq6CqKWAxaitw) |
 | 4/14/2020 Tuesday | HTML | #3 HTML Tables | [Watch](https://www.twitch.tv/videos/592993926?collection=8sq6CqKWAxaitw) | 
 | 4/26/2020 Thursday | HTML | #4 HTML Forms | [Watch](https://www.twitch.tv/videos/594051849?collection=8sq6CqKWAxaitw) |
