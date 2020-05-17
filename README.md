@@ -1,6 +1,6 @@
 # Web Dev with Sonny
 
-![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.gif)
+![title](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.jpg)
 
 📺 https://www.twitch.tv/sonnynomnom <br>
 📆 Tuesdays & Thursdays @ 3:00 PM EST
