@@ -36,6 +36,6 @@ Web Dev with Sonny is a twice weekly discussion where we will learn to build web
 | 2. Daily Schedule | Build your daily quarantine schedule using an HTML table | 🇮🇳 Koushik | [Link](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/code-challenges/2-daily-schedule/koushik-schedule/daily_routine.html) |
 | 3. Customer Survey | Build a custome satifaction survey using an HTML form | 🇳🇱 Rosita | [Link](https://github.com/sonnynomnom/web-dev-with-sonny/tree/master/code-challenges/3-customer-survey) |
 | 4. Portfolio Page | Stylize an About Me page using CSS | 🇺🇸 Hillary | Coming soon! |
-| 5. TBD | TBD | TBA | TBA |
+| 5. Calculation | Build a mini app using JS | 🇨🇭 Sylvia | Coming soon! |
 
 Please leave feedback for the Web Development Path in the suggestion box on the Twitch channel.
