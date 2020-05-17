@@ -1,6 +1,6 @@
 # Web Dev with Sonny
 
-<a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.jpg" align="right" width=250;></a>
+<a href="https://www.codecademy.com" target="_blank"><img src="https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/logo.jpg" align="right" width=300;></a>
 
 📺 https://www.twitch.tv/sonnynomnom <br>
 📆 Tuesdays & Thursdays @ 3:00 PM EST
