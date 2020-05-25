@@ -1,0 +1,55 @@
+  
+body {
+    font-family: Verdana;
+  }
+  
+  h1 {
+    color: teal;
+    font-size: 28px;
+  }
+  
+  h2.tip {
+    font-weight: lighter;
+  }
+
+  h3 {
+    color: darksalmon;
+    font-weight: lighter;
+  }
+
+  h5 {
+    color: maroon !important;
+  }
+  
+.title {
+  color: darksalmon;
+  font-size: 38px;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+  h5.my-name { 
+    font-weight: lighter;
+    font-size: 16px;
+    color: maroon;
+  }
+
+  h6 {
+    font-style: italic;
+    font-weight: lighter;
+    color: lightsteelblue;
+    font-size: 12px
+  }
+  
+  .descrip h5 {
+    color: darkmagenta;
+    font-weight: bold;
+    font-size: 16px;
+  }
+
+  h5,
+  p {
+    font-family: sans-serif;
+  }
