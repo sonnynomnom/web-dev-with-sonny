@@ -27,6 +27,8 @@ Web Dev with Sonny is a twice weekly discussion where we will learn to build web
 | 5/07/2020 Thursday | ![JS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/js.png) | #10 JavaScript Variables | [Watch](https://www.twitch.tv/videos/614204251) | 
 | 5/12/2020 Tuesday | ![JS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/js.png) | #11 JavaScript Conditionals | [Watch](https://www.twitch.tv/videos/622181992) | 
 | 5/14/2020 Thursday | ![JS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/js.png) | #12 Repl.it Challenge | [Watch](https://www.twitch.tv/videos/622214602) | 
+| 5/26/2020 Thursday | ![JS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/js.png) | #13 JavaScript Functions | [Watch](https://www.twitch.tv/videos/637071487) | 
+| 5/28/2020 Thursday | ![CSS](https://github.com/sonnynomnom/web-dev-with-sonny/blob/master/css.png) | #14 CSS Box Model | [Watch](https://www.twitch.tv/videos/637616233) | 
 
 ## Code Challenges
 
